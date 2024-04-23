@@ -1,0 +1,18 @@
+- id: testapi
+  tracker: 1
+  status: 1
+  priority: 2
+  assigned_to: 1
+  watchers: [1]
+  login: egorkasprigorca@mail.ru
+  password: XBZij0Uy93WvcJ3YcAFs
+  key: 5d6b51e55079fa86c0741123b0378cd9da613d3f
+# - id: testapid
+#   tracker: 1
+#   status: 1
+#   priority: 2
+#   assigned_to: 1
+#   watchers: [1]
+#   login: egorkasprigorca@mail.ru
+#   password: XBZij0Uy93WvcJ3YcAF
+#   key: 5d6b51e55079fa86c0741123b0378cd9da613d3f
